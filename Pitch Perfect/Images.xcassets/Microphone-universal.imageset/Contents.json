@@ -1,0 +1,27 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "microphone-iphone.pdf"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "filename" : "microphone-iphone-1.pdf"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "microphone-iphone-2.pdf"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x",
+      "filename" : "microphone-iphone-3.pdf"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
